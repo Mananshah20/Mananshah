@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mananshah/static/css/main.e7e7c57c.chunk.css",
+    "main.js": "/mananshah/static/js/main.c508b791.chunk.js",
+    "main.js.map": "/mananshah/static/js/main.c508b791.chunk.js.map",
+    "runtime-main.js": "/mananshah/static/js/runtime-main.fe485d32.js",
+    "runtime-main.js.map": "/mananshah/static/js/runtime-main.fe485d32.js.map",
+    "static/js/2.857a7937.chunk.js": "/mananshah/static/js/2.857a7937.chunk.js",
+    "static/js/2.857a7937.chunk.js.map": "/mananshah/static/js/2.857a7937.chunk.js.map",
+    "static/js/3.73681282.chunk.js": "/mananshah/static/js/3.73681282.chunk.js",
+    "static/js/3.73681282.chunk.js.map": "/mananshah/static/js/3.73681282.chunk.js.map",
+    "index.html": "/mananshah/index.html",
+    "static/css/main.e7e7c57c.chunk.css.map": "/mananshah/static/css/main.e7e7c57c.chunk.css.map",
+    "static/js/2.857a7937.chunk.js.LICENSE.txt": "/mananshah/static/js/2.857a7937.chunk.js.LICENSE.txt",
+    "static/media/Manan2.df77415f.PNG": "/mananshah/static/media/Manan2.df77415f.PNG",
+    "static/media/airbnb.c87c346b.PNG": "/mananshah/static/media/airbnb.c87c346b.PNG",
+    "static/media/bg.02ff47cb.jpg": "/mananshah/static/media/bg.02ff47cb.jpg",
+    "static/media/covid.5995750f.PNG": "/mananshah/static/media/covid.5995750f.PNG",
+    "static/media/d1.7185ab3f.jpg": "/mananshah/static/media/d1.7185ab3f.jpg",
+    "static/media/img-01.caceb143.png": "/mananshah/static/media/img-01.caceb143.png",
+    "static/media/mail.791e7d8f.png": "/mananshah/static/media/mail.791e7d8f.png",
+    "static/media/netflix.760ab504.PNG": "/mananshah/static/media/netflix.760ab504.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe485d32.js",
+    "static/js/2.857a7937.chunk.js",
+    "static/css/main.e7e7c57c.chunk.css",
+    "static/js/main.c508b791.chunk.js"
+  ]
+}
